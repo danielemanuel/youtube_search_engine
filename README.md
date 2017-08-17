@@ -1,25 +1,23 @@
-# ReduxSimpleStarter
+# Youtube search Engine
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+ Here are the steps for runing the app on your machine:
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone
+> cd into directory
 > npm install
 > npm start
 ```
+ ###  Youtube search engine :
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+ * project is build using ReactJs
+ * I used the Api from youtube to display the videos on the UI
+ * I used lodash to delay the search input with 300 ms
+ * project is structured in several components and the code is nice and clean
+ * the app is faster than the proper youtube chanel :D :D
 
-```
-> npm install
-> npm start
-```
+
+ ![youtube](./style/images/youtubeapp.png)
