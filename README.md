@@ -1,12 +1,10 @@
 # Youtube search Engine
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
 ### Getting Started
 
  Here are the steps for runing the app on your machine:
 ```
-> git clone
+> git clone https://github.com/danielemanuel/youtube_search_engine.git
 > cd into directory
 > npm install
 > npm start
